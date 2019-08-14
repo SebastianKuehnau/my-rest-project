@@ -1,6 +1,6 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vaadin-flow/Lobby#?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# Skeleton Starter for Vaadin
+# Skeleton Starter for Vaadin with a RESTful Service included
 
 This project can be used as a starting point to create your own Vaadin application.
 It has the necessary dependencies and files to help you get started.
